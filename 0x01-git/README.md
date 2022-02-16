@@ -2,4 +2,4 @@
 ### This include creating a file directory on computer named *alx-pre_course* and then moving it to your github account reprository named *alx-pre_course.git*
 
 # adding files to your github reprository
-# creating a new branch and updating activiiea
+# creating a new branch and updating activities
